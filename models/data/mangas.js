@@ -717,4 +717,5 @@ let insert_mangas = async()=> {
     }
     console.log('done!')
 }
+
 insert_mangas();
